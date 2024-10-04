@@ -21,9 +21,7 @@ At VAVANodes, we are committed to delivering the best performance and security f
 ### 1. **[Kuzco](https://medium.com/@VAVANodes/your-adventure-begins-setting-up-a-kuzco-validator-node-a4539f889740)**
    ![Project A Logo](https://pbs.twimg.com/profile_images/1764818290948628480/kdK2Iay9_200x200.png)
    #
-**Description:** Project A aims to create a decentralized marketplace for digital assets, ensuring transparency and security for all transactions. With cutting-edge technology and a passionate community, Project A is set to redefine how we trade online.
-
-   **Why We Support:** We believe in the vision of Project A and are excited to contribute our expertise to help it thrive.
+**Description:** Kuzco is a cutting-edge blockchain project designed to create a robust and scalable network for decentralized applications (dApps). It leverages innovative technologies to enhance transaction speed, security, and user experience, making it an ideal platform for developers and users alike. By participating as a validator in the Kuzco network, you’ll play a crucial role in maintaining its integrity and security, helping to shape the future of decentralized solutions.
 
    **Join the Community:** [Project A Website](https://kuzco.xyz/)
 
