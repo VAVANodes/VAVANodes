@@ -25,6 +25,13 @@ At VAVANodes, we are committed to delivering the best performance and security f
 
    **Join the Community:** [Project A Website](https://kuzco.xyz/)
 
+### 2. **[Ten](  https://medium.com/@VAVANodes/guide-to-setting-up-a-validator-node-for-ten-network-testnet-d4148995984d)**
+![image-5](https://github.com/user-attachments/assets/a9c30107-aa2d-46d6-a900-eaa65fdbc52a)
+  #
+TEN is a Layer 2 solution for Ethereum, utilizing Trusted Execution Environments (TEEs) to offer scalability, encryption, and "smart transparency." It enables faster, cheaper transactions while maintaining Ethereum's security. TEN enhances dApp development with full encryption, reduced transaction costs, and eliminates negative Maximal Extractable Value (MEV). It is compatible with Ethereum’s existing tools and simplifies the transition for developers and users. TEN’s key applications include on-chain gaming, private DeFi, and institutional solutions.
+
+For more details, visit [TEN](https://ten.xyz/).
+
 ---
 
 ---
